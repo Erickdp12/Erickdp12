@@ -4,7 +4,7 @@ Readme.md
 
 **`Desenvolvedor Backe-end`**
 
-Me chamo Erick Dorneles, tenho 19 anos e sou natural do Rio Grande do Sul. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FSG, estou no 1º semestre do curso.
+Me chamo Erick Dorneles, tenho 19 anos e sou natural do Rio Grande do Sul. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FSG, estou no 2º semestre do curso.
 
 <p align="left">
     <a href="https://github.com/Erickdp12?tab=repositories&sort=stargazers">
